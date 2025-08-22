@@ -2,7 +2,7 @@
 
 👋 Hi, I'm Vinh!  
 💻 A passionate developer who loves building web applications.  
-✨ Skilled with **TypeScript**, **Java**, **NestJS**, and **Next.js**.  
+✨ Skilled with **TypeScript**, **Java**, **NestJS**, and **Reactjs/Next.js**.  
 🚀 Exploring microservices, system design, and real-time applications.  
 
 ## 🔧 Technologies & Tools
