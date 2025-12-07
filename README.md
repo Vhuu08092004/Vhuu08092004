@@ -12,7 +12,7 @@
 - Tools: Docker, Redis, Git  
 
 ## 📈 GitHub Stats
-![Vinh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vhuu08092004&show_icons=true&theme=tokyonight)
+![Vinh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vhuu08092004&show_icons=true&theme=tokyonight).
 
 ## 🌍 Connect with me
 [LinkedIn](https://www.linkedin.com/) | [Facebook](https://facebook.com/) | [Email](mailto:your-email@example.com)
