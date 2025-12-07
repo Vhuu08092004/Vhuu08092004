@@ -1,5 +1,3 @@
-<!-- Banner -->
-<img src="https://i.imgur.com/dX9d1EE.png" width="100%" alt="banner" />
 
 # 👋 Hi, I'm **Quách Hữu Vinh**
 ### 🚀 Java Backend Developer | Spring Boot | Microservices | System Design
