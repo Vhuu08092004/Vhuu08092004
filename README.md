@@ -30,14 +30,6 @@ Inventory, shipments, reports, authentication, Docker deployment.
 
 ---
 
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Vhuu08092004&show_icons=true&theme=transparent)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vhuu08092004&layout=compact&theme=transparent)
-
----
-
 ## 🌍 Connect with me  
 
 📧 Email: **vhuu3208@gmail.com**  
